@@ -1,0 +1,28 @@
+body{
+  margin: 0;
+  background-color: #393e46;
+}
+
+
+
+h1{
+  color:#fdb827;
+  font-size: 7rem;
+
+}
+
+.hero-image {
+  background: url(kikamba.jpg) no-repeat center; 
+  background-size: cover;
+  height: 550px;
+  position: relative;
+
+}
+.hero-text {
+  text-align: left;
+  position: absolute;
+  top: 40%;
+  left: 40%;
+  transform: translate(-50%, -50%);
+  color: rgb(199, 230, 25);
+}
